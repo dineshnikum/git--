@@ -4,3 +4,4 @@ console.log("the login feature");
 console.log("it is a logout branch");
 console.log("the logout feature");
 console.log("logout feature completed");
+console.log("sidebar feature");
